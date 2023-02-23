@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/guitar-learning/static/css/main.bb8cf441.css",
+    "main.js": "/guitar-learning/static/js/main.d31612bf.js",
+    "index.html": "/guitar-learning/index.html",
+    "main.bb8cf441.css.map": "/guitar-learning/static/css/main.bb8cf441.css.map",
+    "main.d31612bf.js.map": "/guitar-learning/static/js/main.d31612bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb8cf441.css",
+    "static/js/main.d31612bf.js"
+  ]
+}
